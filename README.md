@@ -58,7 +58,7 @@ I am working on making this accessible for everyone: **non-programmers included!
 
 Have these installed these before running:
 * OpenCV2 https://pypi.org/project/opencv-python/
-* MediaPipe https://google.github.io/mediapipe/getting_started/install.html#installing-on-macos
+* MediaPipe https://ai.google.dev/edge/mediapipe/framework/getting_started/install#installing_on_macos
 * Numpy https://numpy.org/install/
 * Praat https://www.fon.hum.uva.nl/praat/download_mac.html
 * Ffmpeg https://ffmpeg.org/download.html <br />
